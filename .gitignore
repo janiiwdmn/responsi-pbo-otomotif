@@ -1,0 +1,21 @@
+# intellij
+.idea/
+*.iml
+out/
+
+# hasil compile
+*.class
+
+# eclipse
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+bin/
+
+# vscode
+.vscode/
+
+# mac
+.DS_Store
